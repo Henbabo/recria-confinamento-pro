@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Recria + Confinamento PRO — Piloto",
+  "short_name": "Recria PRO",
+  "description": "Comparação de compra de animais para confinamento direto ou recria e confinamento.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8f5",
+  "theme_color": "#075638",
+  "icons": [
+    {
+      "src": "./icon-192-v5.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512-v5.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
